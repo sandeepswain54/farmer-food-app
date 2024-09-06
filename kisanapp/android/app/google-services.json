@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657805406970",
+    "project_id": "flutter-farmer-app-5780c",
+    "storage_bucket": "flutter-farmer-app-5780c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657805406970:android:bfaee95f859a67d0f10f43",
+        "android_client_info": {
+          "package_name": "com.example.kisanapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADTKYzEuGxJ2Z6YnyGhTMrBYfKy-hGUlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
